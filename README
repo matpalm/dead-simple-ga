@@ -1,0 +1,4 @@
+a dead simple, and i mean DEAD SIMPLE, genetic algorithm for book club
+
+bash> ruby main.rb
+
